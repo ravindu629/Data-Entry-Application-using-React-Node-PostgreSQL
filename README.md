@@ -4,19 +4,29 @@
 
 ![File 2](https://drive.google.com/uc?export=view&id=1g46cRWoaqrIDMnZ_lbhstiLvWMqgaV6Q)
 
-### Install Dependencies (frontend)
+### Install Dependencies (backend)
 
 ```
 cd backend
 npm install
+```
+
+### Run (backend)
+
+```
 node server.js
 ```
 
-### Run
+### Install Dependencies (frontend)
 
 ```
-# Run sol_ravindu
+cd sol_ravindu
 npm install
+```
+
+### Run (frontend)
+
+```
 npm start
 ```
 
