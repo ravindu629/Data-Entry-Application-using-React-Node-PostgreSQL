@@ -1,4 +1,4 @@
-# Technical Assignment - BRITANEXT - Ravindu Wijerathne 
+# Data Entry Application
 
 ![File 1](https://drive.google.com/uc?export=view&id=1CLPXvH9OU-jB14snlmDbhulY9FZWfsBO)
 
